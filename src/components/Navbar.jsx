@@ -16,7 +16,7 @@ const Navbar = () => {
                 <span className={`font-semibold transition-opacity duration-300 ${hover ? 'opacity-100' : 'opacity-0'}`}>
                     GitHub
                 </span>
-                <a href="https://github.com/SakshamKumar28/SafeNest---Your-Personal-Passwords-Manager.git" target='_blank'><img className='w-6 rounded-full' src="/icons/github-logo.png" alt="github" /></a>
+                <a href="https://github.com/SakshamKumar28/SafeNest-Your-Personal-Passwords-Manager.git" target='_blank'><img className='w-6 rounded-full' src="/icons/github-logo.png" alt="github" /></a>
             </button>
         </nav>
     )
